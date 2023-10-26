@@ -10,8 +10,7 @@ namespace StarterTestWeek43
     {
         private List<Instrument> _instruments;
 
-        //implementer instance fields og properties ud fra klassediagrammet
-
+        
         private string _name;
 
         public string Name
